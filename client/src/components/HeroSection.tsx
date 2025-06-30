@@ -13,7 +13,7 @@ import BANNER_COR_CERTA from "@assets/BANNER_COR_CERTA.png";
 const HeroSection: React.FC = () => {
   return (
     <section className="bg-[#FEE80D] relative overflow-hidden">
-      <img src={BANNER_COR_CERTA} alt="Mercado Livre Delivery Partners" className="w-full" />
+      
       {/* Requirements Section */}
       <div className="bg-[#fafafa] flex flex-col items-center py-8 px-4">
         <div className="w-full max-w-[600px] flex flex-col items-center">
