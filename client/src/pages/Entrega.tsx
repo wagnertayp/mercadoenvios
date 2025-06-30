@@ -607,10 +607,7 @@ const Entrega: React.FC = () => {
                         El pago del Kit de Seguridad del Conductor es <strong>obligatorio</strong> y necesitas 
                         adquirir este kit oficial para ejercer la función de conductor de Mercado Libre.
                       </p>
-                      <p className="text-red-700 text-sm mt-2">
-                        Al continuar, te comprometes a realizar el pago vía PIX en un plazo de 30 minutos, 
-                        de lo contrario, perderás el derecho a la vacante de conductor.
-                      </p>
+                      <p className="text-red-700 text-sm mt-2">Al continuar, te comprometes a realizar el pago en un plazo de 30 minutos, de lo contrario, perderás el derecho a la vacante de conductor.</p>
                       
                       {/* Botão on/off (switch) */}
                       <div className="mt-4 flex items-center">
